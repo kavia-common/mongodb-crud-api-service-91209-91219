@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/mongodb-crud-api-service-91209-91219/mongodb_database"
+}
